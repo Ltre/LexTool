@@ -21,7 +21,7 @@ public class lexTool extends javax.swing.JFrame {
         exc1 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("C语言词法分析程序 Power by 1040112346_方坤标");
+        setTitle("C语言词法分析程序 Power by Ltre");
         setResizable(false);
 
         globalPane.setBackground(new java.awt.Color(102, 102, 102));
